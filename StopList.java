@@ -17,7 +17,7 @@ public class StopList {
         "then","there","these","they","this","those","through","to","too","under","until","up","very",
         "was","we","were","what","when","where","which","while","who","whom","why","will","with",
         "would","you","your","yours","yourself","yourselves","also","next","near","across","onto",
-        // Domain-specific filler words common in image descriptions
+        // image and picture words
         "image","picture","photo","photograph","show","shows","showing","shown","depict","depicts",
         "depicting","appear","appears","seems","see","seen","visible"
     };
