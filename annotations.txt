@@ -1,10 +1,10 @@
-# imageId | subjectId | annotation
-img01|s1|A brown dog is running through the grassy park.
-img01|s2|The puppy runs across green grass chasing a ball.
-img01|s3|Dog playing fetch with a ball in the park.
-img02|s1|Children are playing football on a sunny field.
-img02|s2|Kids running after a ball on the grass.
-img03|s1|A cat sleeping on a sofa near the window.
-img03|s2|The kitten is napping on the couch.
-img04|s1|A small puppy sleeping on a couch.
-img04|s2|The dog naps on the sofa next to a cat.
+# imageId | annotation | subject annotation
+img01|A brown dog is running through the grassy park.|A brown dog runs across a grassy lawn in a park.
+img01|The puppy runs across green grass chasing a ball.|A young puppy races over lush grass after a toy ball.
+img01|Dog playing fetch with a ball in the park.|A dog plays catch with a ball on a park lawn.
+img02|Children are playing football on a sunny field.|Kids kick a soccer ball around on an open field in sunshine.
+img02|Kids running after a ball on the grass.|Some children chase a ball across the lawn.
+img03|A cat sleeping on a sofa near the window.|A cat dozes on a couch beside a window.
+img03|The kitten is napping on the couch.|A young cat is taking a nap on the settee.
+img04|A small puppy sleeping on a couch.|A little dog rests on a sofa.
+img04|The dog naps on the sofa next to a cat.|A dog dozes on a couch alongside a cat.
